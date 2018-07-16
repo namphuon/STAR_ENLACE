@@ -13,13 +13,13 @@ def interSegments(x, y, x1, y1):
     return (x1 <= x <= y1) or (x1 >= x and x1 <= y)
 
 
-#with open("Data\AuxiliarGene.txt", "r") as file:
-with open("Data\gene.annotation.gff.filtered", "r") as file:
+with open("Data\AuxiliarGene.txt", "r") as file:
+#with open("Data\gene.annotation.gff.filtered", "r") as file:
     start_time = time()
     for line in file:
         if line[0] == '#':
             continue
-        #print(count)
+        print(count)
         count = count +1
         res = line.split('\t')
         info = dict([r.strip().replace('"', '').split(' ') for r in res[-1].split('; ') if len(r.split(' ')) == 2])
