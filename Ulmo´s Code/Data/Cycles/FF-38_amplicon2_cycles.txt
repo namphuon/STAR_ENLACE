@@ -1,0 +1,12 @@
+Interval	1	chr20	33798501	34689250
+List of cycle segments
+Segment	1	chr20	33798501	34689250
+Segment	2	chr20	33908100	34064199
+Segment	3	chr20	33977423	34585717
+Segment	4	chr20	34502403	34588229
+Segment	5	chr20	34514500	34585717
+Segment	6	chr20	34514500	34588229
+Cycle=1;Copy_count=9.68081570842;Segments=0+,6+,5-,0-
+Cycle=2;Copy_count=9.20416731957;Segments=3+,4-
+Cycle=3;Copy_count=6.51799512126;Segments=0+,1-,0-
+Cycle=4;Copy_count=2.41630409038;Segments=0+,2-,0-

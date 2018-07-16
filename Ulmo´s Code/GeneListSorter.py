@@ -6,7 +6,7 @@ longList = []
 #with open("Data\gene.annotation.gff.filtered","r") as file: #parsing Gene ID file and creating x (pre-sorted geneList)
 with open("Data\AuxiliarGene.txt","r") as file: #parsing Gene ID file and creating x (pre-sorted geneList)
     for skipLine in file:
-        print("Running...")
+        #print("Running...")
         line = skipLine.split("\t")
         if(line[0][0] == "c"):
             chrom = line[0]
@@ -23,5 +23,6 @@ with open("Data\AuxiliarGene.txt","r") as file: #parsing Gene ID file and creati
 geneList = sorted(longList, key=lambda longList: longList[1])
 #this is the sorter 
 
+#print (geneList)
 
 

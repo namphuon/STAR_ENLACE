@@ -92,5 +92,5 @@ def cicleReader(nameFile):
 
                 #print("Hay ceros")
     y=0
-    print (CS)
+    #print (CS)
     return [Intervals,Segments,CS]

@@ -1,0 +1,14 @@
+Interval	1	chr6	49192001	55198400
+List of cycle segments
+Segment	1	chr6	49192001	51110799
+Segment	2	chr6	49192001	53753199
+Segment	3	chr6	49192001	54552000
+Segment	4	chr6	51183110	55198400
+Segment	5	chr6	52650920	52691455
+Segment	6	chr6	54224013	54245861
+Cycle=1;Copy_count=4.01411817201;Segments=0+,4-,0-
+Cycle=2;Copy_count=2.11974371929;Segments=0+,1-,0-
+Cycle=3;Copy_count=1.63339412574;Segments=0+,2-,0-
+Cycle=4;Copy_count=1.53768704656;Segments=6+
+Cycle=5;Copy_count=1.14591512207;Segments=0+,3-,0-
+Cycle=6;Copy_count=0.850892729812;Segments=5+

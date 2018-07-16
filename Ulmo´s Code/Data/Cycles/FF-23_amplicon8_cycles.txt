@@ -1,0 +1,58 @@
+Interval	1	chr17	36409801	38472880
+Interval	2	chr17	45402001	59781629
+List of cycle segments
+Segment	1	chr17	36409801	37142174
+Segment	2	chr17	36409801	37448149
+Segment	3	chr17	36669800	37448149
+Segment	4	chr17	37143616	37448149
+Segment	5	chr17	37282809	37448149
+Segment	6	chr17	37282809	37596411
+Segment	7	chr17	37448758	38243486
+Segment	8	chr17	37599231	38243486
+Segment	9	chr17	37643200	37842880
+Segment	10	chr17	37643200	38472880
+Segment	11	chr17	45402001	46615802
+Segment	12	chr17	45552001	45677399
+Segment	13	chr17	46370020	46489798
+Segment	14	chr17	46370020	46615802
+Segment	15	chr17	46370020	46789899
+Segment	16	chr17	46370020	52176899
+Segment	17	chr17	46615665	46617219
+Segment	18	chr17	46617255	46878699
+Segment	19	chr17	46617255	47754499
+Segment	20	chr17	46617255	49162399
+Segment	21	chr17	47786796	48930029
+Segment	22	chr17	47786796	48957965
+Segment	23	chr17	49744500	50678299
+Segment	24	chr17	51442001	57870215
+Segment	25	chr17	51955700	52176899
+Segment	26	chr17	52645600	54536199
+Segment	27	chr17	52645600	54784457
+Segment	28	chr17	52645600	57870215
+Segment	29	chr17	55959900	57870215
+Segment	30	chr17	56741400	57870215
+Segment	31	chr17	57297200	57870215
+Segment	32	chr17	57871184	58085299
+Segment	33	chr17	57871184	59272299
+Segment	34	chr17	57871184	59332000
+Segment	35	chr17	57871184	59781629
+Segment	36	chr17	59332001	59781629
+Cycle=1;Copy_count=13.9656670877;Segments=17+
+Cycle=2;Copy_count=6.71759533816;Segments=0+,9+,27-,0-
+Cycle=3;Copy_count=4.80304697049;Segments=0+,33-,30-,0-
+Cycle=4;Copy_count=4.3641113944;Segments=0+,1+,4+,7+,13+,18-,14-,7-,4-,1-,0-
+Cycle=5;Copy_count=4.3641113944;Segments=0+,19-,14-,7-,2-,0-
+Cycle=6;Copy_count=3.72031502342;Segments=0+,15-,7-,2-,0-
+Cycle=7;Copy_count=3.10776555395;Segments=0+,34-,31-,0-
+Cycle=8;Copy_count=2.95707039538;Segments=0+,16-,7-,3-,0-
+Cycle=9;Copy_count=2.67829782075;Segments=0+,26-,0-
+Cycle=10;Copy_count=2.50837204034;Segments=0+,25-,0-
+Cycle=11;Copy_count=2.45086116468;Segments=0+,12-,0-
+Cycle=12;Copy_count=1.98840822171;Segments=0+,10-,0-
+Cycle=13;Copy_count=1.94123191089;Segments=0+,20-,11-,0-
+Cycle=14;Copy_count=1.86506786997;Segments=0+,36-,0-
+Cycle=15;Copy_count=1.52705673286;Segments=0+,35-,29-,0-
+Cycle=16;Copy_count=1.45781980691;Segments=0+,32-,24-,0-
+Cycle=17;Copy_count=1.2216840088;Segments=0+,23-,0-
+Cycle=18;Copy_count=1.2212293089;Segments=22+,21-,6+,8+,14+,18+,13-,7-,5-
+Cycle=19;Copy_count=1.18606314696;Segments=0+,33-,28-,0-

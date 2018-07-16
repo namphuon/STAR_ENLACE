@@ -1,0 +1,9 @@
+Interval	1	chr17	37546401	38096800
+List of cycle segments
+Segment	1	chr17	37646700	37886399
+Segment	2	chr17	37828555	37886399
+Segment	3	chr17	37828555	37996805
+Segment	4	chr17	37919100	37996805
+Cycle=1;Copy_count=43.7775365992;Segments=3+
+Cycle=2;Copy_count=21.0578722082;Segments=0+,1-,0-
+Cycle=3;Copy_count=6.22880385791;Segments=0+,2-,4-,0-

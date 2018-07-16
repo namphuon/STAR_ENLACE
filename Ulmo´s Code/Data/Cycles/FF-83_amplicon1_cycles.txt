@@ -1,0 +1,13 @@
+Interval	1	chr2	15606158	16396732
+Interval	2	chr4	54593601	55227744
+Interval	3	chr12	69077601	69702216
+List of cycle segments
+Segment	1	chr2	15766368	16236523
+Segment	2	chr4	54757380	55078068
+Segment	3	chr12	69180041	69186202
+Segment	4	chr12	69180041	69255778
+Segment	5	chr12	69256517	69389621
+Segment	6	chr12	69393583	69598565
+Segment	7	chr12	69451852	69598565
+Cycle=1;Copy_count=118.165520425;Segments=6+,3+
+Cycle=2;Copy_count=106.633940445;Segments=1+,2-,5-,4-,7-

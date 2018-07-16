@@ -1,0 +1,25 @@
+Interval	1	chr19	29037900	33178249
+List of cycle segments
+Segment	1	chr19	29138000	29281298
+Segment	2	chr19	29138000	30388803
+Segment	3	chr19	29206599	29281298
+Segment	4	chr19	29223874	29281298
+Segment	5	chr19	29345799	30388803
+Segment	6	chr19	29347900	30388803
+Segment	7	chr19	30393100	30632031
+Segment	8	chr19	30442799	30547899
+Segment	9	chr19	30634837	31189300
+Segment	10	chr19	30634837	31287439
+Segment	11	chr19	31014750	31287439
+Segment	12	chr19	31235180	31287439
+Segment	13	chr19	31289720	31526098
+Segment	14	chr19	31289720	31694298
+Segment	15	chr19	31738560	32653307
+Segment	16	chr19	32286051	32653307
+Cycle=1;Copy_count=24.8226004592;Segments=2+,7+,9+
+Cycle=2;Copy_count=8.80324728817;Segments=0+,3-,0-
+Cycle=3;Copy_count=8.00097327101;Segments=0+,4-,0-
+Cycle=4;Copy_count=7.79721849783;Segments=0+,14-,11-,12+,13+,0-
+Cycle=5;Copy_count=7.03757556684;Segments=0+,8-,0-
+Cycle=6;Copy_count=2.60245721645;Segments=0+,14-,10-,7-,6-,15-,16+,6+,7+,9+,1+,0-
+Cycle=7;Copy_count=1.44390414277;Segments=0+,1-,9-,7-,5-,0-

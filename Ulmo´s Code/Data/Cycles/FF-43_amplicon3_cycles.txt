@@ -1,0 +1,19 @@
+Interval	1	chr9	132086810	132317135
+Interval	2	chr22	20692201	24388600
+List of cycle segments
+Segment	1	chr9	132086810	132205908
+Segment	2	chr9	132191815	132205908
+Segment	3	chr9	132205909	132317135
+Segment	4	chr22	20692201	24025617
+Segment	5	chr22	22222170	22482399
+Segment	6	chr22	24027538	24195940
+Segment	7	chr22	24027538	24265299
+Segment	8	chr22	24198505	24343399
+Segment	9	chr22	24198505	24388600
+Cycle=1;Copy_count=5.09971733116;Segments=5+
+Cycle=2;Copy_count=3.11941427122;Segments=0+,2-,0-
+Cycle=3;Copy_count=2.97244462443;Segments=0+,8-,6-,4-,0-
+Cycle=4;Copy_count=1.77363915618;Segments=0+,1-,0-
+Cycle=5;Copy_count=1.58644498318;Segments=0+,7-,4-,0-
+Cycle=6;Copy_count=0.977660820376;Segments=0+,3-,0-
+Cycle=7;Copy_count=0.654580818416;Segments=0+,9-,6-,4-,0-

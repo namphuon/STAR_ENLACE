@@ -1,0 +1,19 @@
+Interval	1	chr8	126122701	130951288
+List of cycle segments
+Segment	1	chr8	126122701	127192204
+Segment	2	chr8	126122701	130951288
+Segment	3	chr8	126224547	126547452
+Segment	4	chr8	126710880	127192204
+Segment	5	chr8	127194571	127211785
+Segment	6	chr8	127194571	127386299
+Segment	7	chr8	128068263	128344473
+Segment	8	chr8	128689004	128772036
+Segment	9	chr8	130000920	130086177
+Segment	10	chr8	130011700	130215268
+Segment	11	chr8	130367020	130698146
+Cycle=1;Copy_count=21.0792742146;Segments=0+,11-,10-,0-
+Cycle=2;Copy_count=20.2269661368;Segments=9+,8+
+Cycle=3;Copy_count=17.9383381024;Segments=0+,6-,4-,7+,3-,0-
+Cycle=4;Copy_count=2.15339559708;Segments=0+,5-,4-,7+,3-,0-
+Cycle=5;Copy_count=0.457978418852;Segments=0+,5-,1-,0-
+Cycle=6;Copy_count=1.07710765901;Segments=0+,2-,0-
