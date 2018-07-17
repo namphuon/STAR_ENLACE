@@ -1,7 +1,0 @@
-##gff-version 3
-chr1	RNG	Genes_hg19	203681298	204875764	1	+	.	ID=3125;Accession=NM_001005484;Name=OR4F5;color=9400D3;url=http://genome.ucsc.edu/cgi-bin/hgTracks?&clade=vertebrate&org=Human&db=hg19&position=chr1:69090-70008&pix620&Submit=submit;
-chr1	RNG	Genes_hg19	323891	328580	1	+	.	ID=30321;Accession=NR_028325;Name=LOC100132062;color=9400D3;url=http://genome.ucsc.edu/cgi-bin/hgTracks?&clade=vertebrate&org=Human&db=hg19&position=chr1:323891-328580&pix620&Submit=submit;
-chr1	RNG	Genes_hg19	323891	328580	2	+	.	ID=30682;Accession=NR_028322;Name=LOC100132287;color=9400D3;url=http://genome.ucsc.edu/cgi-bin/hgTracks?&clade=vertebrate&org=Human&db=hg19&position=chr1:323891-328580&pix620&Submit=submit;
-chr1	RNG	Genes_hg19	323891	328580	3	+	.	ID=30740;Accession=NR_028327;Name=LOC100133331;color=9400D3;url=http://genome.ucsc.edu/cgi-bin/hgTracks?&clade=vertebrate&org=Human&db=hg19&position=chr1:323891-328580&pix620&Submit=submit;
-chr1	RNG	Genes_hg19	367658	368595	1	+	.	ID=34425;Accession=NM_001005277;Name=OR4F16;color=9400D3;url=http://genome.ucsc.edu/cgi-bin/hgTracks?&clade=vertebrate&org=Human&db=hg19&position=chr1:367658-368595&pix620&Submit=submit;
-chr1	RNG	Genes_hg19	367658	368595	2	+	.	ID=35676;Accession=NM_001005224;Name=OR4F3;color=9400D3;url=http://genome.ucsc.edu/cgi-bin/hgTracks?&clade=vertebrate&org=Human&db=hg19&position=chr1:367658-368595&pix620&Submit=submit;

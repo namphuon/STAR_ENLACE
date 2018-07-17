@@ -85,12 +85,6 @@ def cicleReader(nameFile):
                     else:
                         #print(Cycles[i][2])
                         CS[i]= [Segments[x][0],Segments[x][1],Segments[x][2],Cycles[i][2]]
-            #else:
-                #ELIMINA LOS CEROS DE LA LISTA Y HAS LO DE ARRIBA
-                
-                
-
-                #print("Hay ceros")
     y=0
     #print (CS)
     return [Intervals,Segments,CS]

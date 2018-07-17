@@ -1,9 +1,0 @@
-class FF:
-	
-	"""docstring for FF"""
-	def __init__(self, cycles, segments):
-		self.intervals = intervals
-		self.segments = segments
-		self.cycles = cycles
-
-		

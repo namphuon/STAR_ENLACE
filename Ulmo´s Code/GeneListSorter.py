@@ -1,12 +1,13 @@
 x = []
 longList = []
+counter=0
 
-
-
-#with open("Data\gene.annotation.gff.filtered","r") as file: #parsing Gene ID file and creating x (pre-sorted geneList)
-with open("Data\AuxiliarGene.txt","r") as file: #parsing Gene ID file and creating x (pre-sorted geneList)
+with open("Data\gene.annotation.gff.filtered","r") as file: #parsing Gene ID file and creating x (pre-sorted geneList)
+#with open("Data\AuxiliarGene.txt","r") as file: #parsing Gene ID file and creating x (pre-sorted geneList)
+    #print("I open the geneFile")
     for skipLine in file:
-        #print("Running...")
+        print(counter)
+        counter +=1
         line = skipLine.split("\t")
         if(line[0][0] == "c"):
             chrom = line[0]
@@ -16,13 +17,10 @@ with open("Data\AuxiliarGene.txt","r") as file: #parsing Gene ID file and creati
             geneID = x[0]
             xx = x[4].split(" ")
             geneName = xx[2]
-            longList.append([chrom,spliceOne,spliceTwo,geneID,geneName])
+            if geneName != "level": 
+                longList.append([chrom,spliceOne,spliceTwo,geneID,geneName])
           #  x = remove_duplicates(longList)
 
+geneList = set(map(tuple,longList))  #need to convert the inner lists to tuples so they are hashable
 
-geneList = sorted(longList, key=lambda longList: longList[1])
-#this is the sorter 
-
-#print (geneList)
-
-
+geneList = sorted(longList, key=lambda longList: longList[1]) #this is the sorter
